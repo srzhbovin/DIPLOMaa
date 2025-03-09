@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+requests
+typing
+cianparser
+matplotlib
+clickhouse_connect
